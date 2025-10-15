@@ -1,0 +1,15 @@
+body{
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h1{
+    color: rgb(40, 9, 162);
+}
+button{background-color: aqua;
+}
+button:hover{
+    background-color: chartreuse;
+}

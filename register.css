@@ -1,0 +1,28 @@
+body{
+    background-color: cornflowerblue;
+    text-align: center;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: rgba(0, 255, 217, 0.978);
+}
+label{
+    color: goldenrod;
+    margin: 10px;
+}
+input{
+    margin: 10px;
+    background-color: rgba(7, 201, 23, 0.958);
+    box-decoration-break: clone;
+    border-color: rgb(21, 0, 255);
+    padding: 3px;
+}
+button{
+    background-color: rgb(63, 225, 79);
+    margin: 40px;
+    border-radius: 40%;
+}
+button:hover{
+    background-color: blue;
+}

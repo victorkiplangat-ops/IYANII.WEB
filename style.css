@@ -1,0 +1,28 @@
+body{background-color: cornflowerblue;
+text-align: center;
+font-size: 19px;
+font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: blue;
+}
+img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+label{
+    text-align: left;
+    margin-inline-start: 550px;
+    color: rgb(11, 37, 189);
+    display: block;
+}
+figcaption{
+    margin: 10%;
+    margin-left: 10%;
+    margin-inline-start: 20px;
+    
+}
+h2{
+    color: rgba(205, 177, 50, 0.929);
+}
